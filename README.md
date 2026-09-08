@@ -1,2 +1,3 @@
 # Proyek-analisis-data
-Penyewaan sepeda
+Analisis Penyewaan Sepeda
+Dashboard menggunakan streamlit
